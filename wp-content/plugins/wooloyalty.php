@@ -47,7 +47,7 @@ function save_bonus_count( $post_id ){
 
 }
 
-// OUTPUT BONUS COUNT IN SINGLE PRODUCT PAGE
+// Output Bonuses in Product Page
 
 function wooloyalty_woo_single_product() {
     global $product;
